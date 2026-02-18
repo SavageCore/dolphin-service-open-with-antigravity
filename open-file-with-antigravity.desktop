@@ -1,0 +1,11 @@
+[Desktop Entry]
+Actions=openantigravityfile
+MimeType=text/plain;application/octet-stream;
+ServiceTypes=KonqPopupMenu/Plugin
+Type=Service
+X-KDE-Priority=TopLevel
+
+[Desktop Action openantigravityfile]
+Exec=antigravity %F
+Icon=antigravity
+Name=Edit with Antigravity
